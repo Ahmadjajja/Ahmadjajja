@@ -19,4 +19,4 @@
   src="[/path/to/img.jpg]([https://github.com/topics/learn-c](https://repository-images.githubusercontent.com/427210279/9918a449-bc04-42ac-af29-1d1856aa9530))"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; width: 50px; height: 50px">
