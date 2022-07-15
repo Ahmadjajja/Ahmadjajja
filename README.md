@@ -22,4 +22,3 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 50px; height: 100px">
   
-  <h1> html working</h1>
