@@ -25,5 +25,8 @@
     <img src="https://lilnop.github.io/js-documentation/img/js.png" 
         alt="Alt text" title="Optional title"
         style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
+    <img src="[https://lilnop.github.io/js-documentation/img/js.png](https://www.xhtmljunction.com/blog/wp-content/uploads/2018/02/html5-css3.png)" 
+        alt="Alt text" title="Optional title"
+        style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px">
         
      <br/>
