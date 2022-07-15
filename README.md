@@ -31,13 +31,11 @@
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
              <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" title="SASS"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4zGlzNLzOoNUdmAvawyyOJKS7dg8-cB1lTGiohpw6kSyCZSRt8wBiRfO00gg9IIy7po&usqp=CAU"    alt="SCSS" title="SCSS"
+             <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/scss-3-236294.png"    alt="SCSS" title="SCSS"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
               <img src="https://mdbcdn.b-cdn.net/wp-content/uploads/2020/06/bootstrap-5.webp" alt="Bootstrap" title="Bootstrap"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-              <img src="https://mdbcdn.b-cdn.net/wp-content/uploads/2020/06/bootstrap-5.webp" alt="Bootstrap" title="Bootstrap"
-                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-              <img src="https://www.mobinius.com/wp-content/uploads/2018/10/react.png" alt="ReactJs" title="ReactJs"
+              <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622008722227/ResNcwZyph.png" alt="ReactJs" title="ReactJs"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
               <img src="https://www.articlestheme.com/wp-content/uploads/2021/12/react-native-1-1.png" alt="ReactNative" title="ReactNative"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
@@ -47,7 +45,7 @@
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
               <img src="https://www.tadviser.ru/images/d/d6/Thumbnail_1650288823.jpg" alt="Github" title="Github"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-              <img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/zBPCfEhW65BKHa1HbLvBk8BX" alt="MongoDb" title="MongoDb"
+              <img src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" alt="MongoDb" title="MongoDb"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="NodeJs" title="NodeJs"
                  style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
