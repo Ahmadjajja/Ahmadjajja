@@ -16,9 +16,11 @@
 
  <div style="display:flex;justify-content:center;">
    <div>
-   <img src="https://www.educative.io/v2api/editorpage/5330288608542720/image/6288755792019456"
+             <img src="https://www.educative.io/v2api/editorpage/5330288608542720/image/6288755792019456"
                 alt="javascript" title="Javascript" style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622008722227/ResNcwZyph.png" alt="ReactJs"
+             <img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png"
+                alt="TypeScript" title="TypeScript" style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
+             <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622008722227/ResNcwZyph.png" alt="ReactJs"
                 title="ReactJs" style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
             <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--lujt_aSx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/sd35dnqzrrjhhlz93zzf.png"
                 alt="Firebase" title="Firebase"
