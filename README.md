@@ -16,7 +16,7 @@
 
  <div style="display:flex;justify-content:center;">
    <div>
-             <img src="https://miro.medium.com/max/800/0*4aIfxfeoj7zBbulO.png"
+             <img src="http://alfa-cyber.com/wp-content/uploads/2021/06/What-is-JavaScript.jpg"
                 alt="javascript" title="Javascript" style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
              <img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png"
                 alt="TypeScript" title="TypeScript" style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
