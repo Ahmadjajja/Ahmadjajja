@@ -10,10 +10,10 @@
 - 📢 Love to teach and inspire students.
 - 🥅 2022 Goals: Contribute more to Open Source projects on React.
 
-
+<hr/>
 
 # Tech Stack
-  <hr/>
+ 
    <div style="display:flex;justify-content:center;">
         <div>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/640px-C_Programming_Language.svg.png"
