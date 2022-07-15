@@ -25,8 +25,11 @@
     <img src="https://lilnop.github.io/js-documentation/img/js.png" 
         alt="Alt text" title="Optional title"
         style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-    <img src="[https://lilnop.github.io/js-documentation/img/js.png](https://www.xhtmljunction.com/blog/wp-content/uploads/2018/02/html5-css3.png)" 
+    <img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" 
         alt="Alt text" title="Optional title"
-        style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px">
+        style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px">   
+    <img src="https://user-images.githubusercontent.com/86593662/179229024-cd36d9dd-ff58-4d66-be9c-ed223a75ef29.png" 
+        alt="Alt text" title="Optional title"
+        style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px"
         
      <br/>
