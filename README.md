@@ -28,8 +28,6 @@
     <img src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1587977020" 
         alt="Alt text" title="Optional title"
         style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px">   
-    <img src="https://user-images.githubusercontent.com/86593662/179229024-cd36d9dd-ff58-4d66-be9c-ed223a75ef29.png" 
-        alt="Alt text" title="Optional title"
-        style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px"
+    <img src="https://img.icons8.com/color/240/000000/css3.png" >
         
      <br/>
