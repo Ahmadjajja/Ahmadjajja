@@ -16,8 +16,7 @@
 
 
 
-    <div style="display:flex;justify-content:center;">
-        <div>
+
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/640px-C_Programming_Language.svg.png"
             alt="Alt text" title="Optional title"
             style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
@@ -29,7 +28,4 @@
             style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px">
         <img src="https://lilnop.github.io/js-documentation/img/js.png"
             alt="Alt text" title="Optional title"
-            style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
-        </div>
-    </div>
-  
+            style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px"> 
