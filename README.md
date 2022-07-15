@@ -21,10 +21,10 @@
                 style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"
                 alt="C++" title="C++"
-                style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
+                style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
             <img src="https://miro.medium.com/max/600/0*7zMicw-FfThCbN35.png"
                 alt="OOP" title="OOP"
-                style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
+                style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
             <img src="https://www.codesansar.com/storage/app/media/seo/dart.png" alt="Dart" title="Dart"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
             <img src="https://www.educative.io/v2api/editorpage/5330288608542720/image/6288755792019456" alt="javascript" title="Javascript"
