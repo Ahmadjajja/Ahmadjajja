@@ -10,7 +10,6 @@
 - 📢 Love to teach and inspire students.
 - 🥅 2022 Goals: Contribute more to Open Source projects on React.
 
-  <hr/>
 
 
 # Tech Stack
