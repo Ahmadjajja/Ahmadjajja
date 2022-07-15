@@ -22,9 +22,9 @@
                 alt="Alt text" title="Optional title"
                 style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
             <img src="https://www.codesansar.com/storage/app/media/seo/dart.png" alt="Alt text" title="Optional title"
-                style="display: inline-block; margin: 0 auto; width: 200px; height: 100px;padding:5px">
+                style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
             <img src="https://lilnop.github.io/js-documentation/img/js.png" alt="Alt text" title="Optional title"
-                style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
+                style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
         </div>
     </div>
 
