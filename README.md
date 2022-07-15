@@ -13,7 +13,7 @@
 
 # Tech Stack
 
-![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
+![C Langauge](https://github.com/topics/learn-c)
 <img
   src="[/path/to/img.jpg](https://github.com/topics/learn-c)"
   alt="Alt text"
