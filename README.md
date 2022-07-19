@@ -9,10 +9,12 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
 - 🥅 2022 Goals: Contribute more to Open Source projects on React.
+- 💬 Ask me about **Any CS concepts,I'll happy to answer.**
+- 📫 How to reach me **ahmadjajja167@gmail.com**
 
 <hr/>
 
-# Tech Stack
+# Languages and Tools
 
  <div style="display:flex;justify-content:center;">
    <div>
@@ -67,3 +69,9 @@
     </div>
 
   <hr/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
+
