@@ -4,7 +4,7 @@
 
  I,m a developer🧑‍💻.
 
-- 🔭 I’m currently working As Frontend Engineer.
+- 🔭 I’m currently working As Frontend Engineer([React_Bank](https://jajja-bank-app.web.app/))
 - 🌱 I’m currently expanding my knowledge in MERN Stack.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
