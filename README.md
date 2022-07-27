@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
 - 🥅 2022 Goals: Contribute more to Open Source projects on React.
-- 📫 How to reach me **ahmadjajja167@gmail.com**
+- 📫 How to reach me **ahmadjajja86@gmail.com**
 
 <hr/>
 
