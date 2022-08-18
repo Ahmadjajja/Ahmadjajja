@@ -2,14 +2,13 @@
 
 
 
- I,m a developer🧑‍💻.
+ I,m a Software Engineer🧑‍💻.
 
-- 🔭 I’m currently working As Frontend Engineer([React_Bank](https://jajja-bank-app.web.app/))
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
-- 🌱 Interested in WEB 3.0 and Metaverse.
+- 🔭 Currently working As MERN Stack Engineer.
+- 🌱 And also expanding my knowledge in WEB 3.0 and Metaverse.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2022 Goals: Contribute more to Open Source projects on React.
+- 🥅 2022 Goals: Contribute more to Open Source projects on MERN Stack.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
 
 <hr/>
