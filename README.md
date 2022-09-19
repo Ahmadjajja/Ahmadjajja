@@ -72,6 +72,8 @@
   <hr/>
   [![Ahmad Jajja's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahmadjajja&bg_color=1d3557&color=457b9d&line=457b9d&point=e63946)](https://github.com/Ahmadjajja)
   
+  [![Abu Hurairah's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbuHurairah127&bg_color=1d3557&color=457b9d&line=457b9d&point=e63946)](https://github.com/AbuHurairah127)
+  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>
 
