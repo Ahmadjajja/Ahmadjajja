@@ -2,7 +2,7 @@
 
 
 
- I,m a Software Engineer🧑‍💻.
+ I,m a Software Engineer🧑‍💻!
 
 - 🔭 Currently working As MERN Stack Engineer.
 - 🌱 And also expanding my knowledge in WEB 3.0 and Metaverse.
