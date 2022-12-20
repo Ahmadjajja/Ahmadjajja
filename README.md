@@ -29,7 +29,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
                 alt="NodeJs" title="NodeJs"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-            <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png](https://miro.medium.com/max/4800/1*CC4lauyfn1b2MdxqPrv1SA.png)"
+            <img src="https://miro.medium.com/max/4800/1*CC4lauyfn1b2MdxqPrv1SA.png"
                 alt="GraphQl" title="GraphQl"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
             <img src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" alt="MongoDb"
