@@ -60,7 +60,7 @@
                 alt="NodeJs" title="NodeJs"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/640px-C_Programming_Language.svg.png"
-                alt="C" title="C"
+                alt="C" title=" C"
                 style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"
                 alt="C++" title="C++"
