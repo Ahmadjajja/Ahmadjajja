@@ -8,7 +8,7 @@
 - 🌱 And also expanding my knowledge in WEB 3.0 and Metaverse.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2022 Goals: Contribute more to Open Source projects on MERN Stack.
+- 🥅 2023 Goals: Contribute more to Open Source projects on MERN Stack.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
 
 <hr/>
