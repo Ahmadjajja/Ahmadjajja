@@ -5,7 +5,7 @@
  I,m a Software Engineer🧑‍💻!
 
 - 🔭 Currently working As MERN Stack Engineer.
-- 🌱 And also expanding my knowledge in WEB 3.0 and Metaverse.
+- 🌱 And also expanding my knowledge in Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
 - 🥅 2023 Goals: Contribute more to Open Source projects on MERN Stack.
