@@ -67,7 +67,9 @@
                 style="display: inline-block; margin: 0 auto; width: 100px; height: 100px;padding:5px">
             <img src="https://miro.medium.com/max/600/0*7zMicw-FfThCbN35.png" alt="OOP" title="OOP"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
-            <img src="https://th.bing.com/th/id/R.e19716e6d49d8b395bb43432569453b8?rik=REo3Lq4Ha3zRmA&pid=ImgRaw&r=0" alt="OOP" title="JAVA"
+            <img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" alt="JAVA" title="JAVA"
+                style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
+                <img src="https://th.bing.com/th/id/R.e19716e6d49d8b395bb43432569453b8?rik=REo3Lq4Ha3zRmA&pid=ImgRaw&r=0" alt="DSA" title="DSA"
                 style="display: inline-block; margin: 0 auto; width: 150px; height: 100px;padding:5px">
         </div>
     </div>
