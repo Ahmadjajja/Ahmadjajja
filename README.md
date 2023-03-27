@@ -2,7 +2,7 @@
 
 
 
- I,m a Software Engineer🧑‍💻!
+ ## I,m a Developer, Teacher and researcher!.
 
 - 🔭 Currently working As MERN Stack Engineer.
 - 👨‍🏫 Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**
