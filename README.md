@@ -5,7 +5,7 @@
  ## I,m a Developer, Teacher and researcher!.
 
 - 🔭 Currently working As MERN Stack Engineer.
-- 👨‍🏫 Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**
+- 👨‍🏫 Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
 - 🌱 And also expanding my knowledge in Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
