@@ -1,13 +1,3 @@
-[![MasterHead](https://repository-images.githubusercontent.com/290870599/1a50bbf2-d463-43f3-be74-d490a1a24f60)
-(img align="right" alt="https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.webp")
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-yousaf&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad Jajja" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadjajja" alt="Ahmad jajja" /></a> </p>
-
-
-
 # Hi there, I'm Ahmad Jajja 👋
 
 
