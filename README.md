@@ -77,7 +77,7 @@
 
   <hr/>
   ## 🤝🏻 &nbsp;Connect with Me
-
+  
 <p align="center">
 <a href="https://ahmad-jajja.web.app/"><img src="https://img.shields.io/badge/-ahmadjajja.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahmad-jajja-ba8b34210/"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
