@@ -76,6 +76,13 @@
     </div>
 
   <hr/>
+  ## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://ahmad-jajja.web.app/"><img src="https://img.shields.io/badge/-ahmad-jajja.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-jajja-ba8b34210/"><img src="https://img.shields.io/badge/-ahmad-jajja-ba8b34210-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contact@ahmadjajja86@gmail.com"><img src="https://img.shields.io/badge/-contact@ahmadjajja86@gmail.com-D14836-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/ahmad.jajja.9081/"><img src="https://img.shields.io/badge/-@ahmad.jajja.9081-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   
   ## Consistency👨‍💻
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
