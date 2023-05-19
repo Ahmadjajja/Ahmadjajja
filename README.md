@@ -76,8 +76,7 @@
     </div>
 
   <hr/>
-  # 🤝 Connect with Me
-  # 🤝 Connect with Me
+  ## 🤝 Connect with Me
   
 <p align="center">
 <a href="https://ahmad-jajja.web.app/"><img src="https://img.shields.io/badge/-ahmadjajja.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
