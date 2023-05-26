@@ -97,11 +97,20 @@
 | [**-Learn Blockchain in 3 months**](https://github.com/Ahmadjajja/-Learn-Blockchain-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/-Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/-Learn-Blockchain-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/-Learn-Blockchain-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/-Learn-Blockchain-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/-Learn-Blockchain-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/-Learn-Blockchain-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
-  ## Consistency👨‍💻
+<!--   ## Consistency👨‍💻
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p> -->
   
-  
+  <h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/Ahmadjajja">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmadjajja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmadjajja&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjajja&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
   
   
 
