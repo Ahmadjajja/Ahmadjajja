@@ -12,7 +12,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects on MERN Stack.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
 
-<hr/>
+
 
 <h2><i>💻 Tech Stack</i></h2>
 
