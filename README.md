@@ -31,6 +31,9 @@
      <td align='center' width="190">
         <img src="https://th.bing.com/th/id/OIP.EU8cGE7DN2uIKfn1bcEu3AAAAA?pid=ImgDet&rs=1" alt="git">
     </td>
+      <td align='center' width="190">
+        <img src="https://th.bing.com/th/id/OIP.EU8cGE7DN2uIKfn1bcEu3AAAAA?pid=ImgDet&rs=1" alt="git">
+    </td>
 </tr>
 <tr>
     <td align='center'>
