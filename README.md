@@ -152,6 +152,13 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
   
+## My Activities :mailbox_with_mail:
+
+| BOOTCAMPS & SESSIONS :tv: | 
+| :--- |
+| [Web Development Bootcamp](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Current)| 
+	
+	
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
