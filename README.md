@@ -19,58 +19,58 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://camo.githubusercontent.com/38f539adfb5bad47c143db7a640d33122a666b8cb1fd047775f7e4fc0ac6a730/687474703a2f2f616c66612d63796265722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f576861742d69732d4a6176615363726970742e6a7067" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://camo.githubusercontent.com/516526c08fddf0c1dbbb41713a896f05e5b9269d2c2b62d7fe30eb0fb118ed3e/68747470733a2f2f63646e2e7468656e6577737461636b2e696f2f6d656469612f323032322f30312f31306238386336382d747970657363726970742d6c6f676f2e706e67">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://camo.githubusercontent.com/7f08673c1a1e8adeefe7e7f8ca0571259418c4320cf821c95c93b0980d99ec87/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f36343070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://camo.githubusercontent.com/abbeb3edc085758e2e282a1f657f8e63e34b03bd4eebd30aade362acbed90dcf/68747470733a2f2f692e7974696d672e636f6d2f76692f795a495372374c746c4b512f6d617872657364656661756c742e6a7067" width="100">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+        <img src="https://camo.githubusercontent.com/2419756223b10dfc0776df6b85a025b100a64dd3d994a412d501bbbc16ca89bf/68747470733a2f2f7777772e6c6f6769637261797361636164656d792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30342f707974686f6e2d70726f6772616d6d696e672e706e67"  >
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://camo.githubusercontent.com/c0f29035c6709cf027b760604063e14e94308d2a979862926f900311fb78f44a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f3132303070782d4e6f64652e6a735f6c6f676f2e7376672e706e67">
     </td>
     <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
+        <img src="https://th.bing.com/th/id/OIP.i2fRBk3GsYLeUk_Rh7AzHwHaDP?pid=ImgDet&rs=1">
     </td>
     <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+        <img src="https://th.bing.com/th/id/R.f5536d8506ff23b074be837dec4db586?rik=xAX1XS%2b4l4Njqw&riu=http%3a%2f%2fbedford-computing.co.uk%2flearning%2fwp-content%2fuploads%2f2015%2f10%2fMongoDB_Logo.png&ehk=rVkEhJ1SJNUrFOuI4jrdpUFcG0QvTTNDf4FPO%2b49q2I%3d&risl=&pid=ImgRaw&r=0">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://th.bing.com/th/id/OIP.x8LjUUpPNMwrutD5mee2pwHaDy?pid=ImgDet&rs=1">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://miro.medium.com/max/4800/1*CC4lauyfn1b2MdxqPrv1SA.png">
+        <img src="https://geekofcoding.files.wordpress.com/2020/09/images.png" >
+    </td>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1">
+    </td>
+    <td align='center'>
+        <img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png">
+    </td>
+    <td align='center'>
+        <img src="https://code.visualstudio.com/assets/images/code-stable.png" >
+    </td>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/R.9ae8ceaa543d93d321a63d4f6f1b120d?rik=sL69WLL1AqP7vQ&pid=ImgRaw&r=0">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://th.bing.com/th/id/R.6710f0d23dc0341c696ada0274d5bc25?rik=N75aHNWr2X0yRw&pid=ImgRaw&r=0">
     </td>
     <td align='center'>
         <img src="https://camo.githubusercontent.com/f5f99ac45e661ee1e97a71bd6bb8679c4def6bc656d3e05824fb67fe2f417300/68747470733a2f2f7777772e61727469636c65737468656d652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f72656163742d6e61746976652d312d312e706e67" >
