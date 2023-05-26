@@ -31,7 +31,7 @@
         <img src="https://th.bing.com/th/id/OIP.EU8cGE7DN2uIKfn1bcEu3AAAAA?pid=ImgDet&rs=1" alt="Git">
     </td>
      <td align='center' width="190">
-        <img src="https://th.bing.com/th/id/R.fa8a11986d98420e080de12bdfdac8e0?rik=%2fmUr2OHqN3veYw&pid=ImgRaw&r=0" alt="Cloud-Firestore">
+        <img src="https://alexsaveau.dev/assets/firebase/firestore-banner.png" alt="Cloud-Firestore">
     </td>
 </tr>
 <tr>
