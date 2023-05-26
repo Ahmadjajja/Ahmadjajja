@@ -9,7 +9,7 @@
 - 👨‍🏫 Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2023 Goals: Contribute more to Open Source projects on MERN Stack.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
 
 
