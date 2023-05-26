@@ -99,7 +99,8 @@
 
 <!--   ## Consistency👨‍💻
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p> -->
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
   
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
@@ -111,10 +112,6 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjajja&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
-  
-  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p> 
 
 
 
