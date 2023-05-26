@@ -29,7 +29,7 @@
     </td>
 
      <td align='center' width="190">
-        <img src="https://camo.githubusercontent.com/abbeb3edc085758e2e282a1f657f8e63e34b03bd4eebd30aade362acbed90dcf/68747470733a2f2f692e7974696d672e636f6d2f76692f795a495372374c746c4b512f6d617872657364656661756c742e6a7067" alt="React-JS">
+        <img src="https://th.bing.com/th/id/OIP.EU8cGE7DN2uIKfn1bcEu3AAAAA?pid=ImgDet&rs=1" alt="git">
     </td>
 </tr>
 <tr>
