@@ -1,11 +1,11 @@
 # Hi there, I'm Ahmad Jajja 👋
  
 
-
  ## I,m a Developer, Teacher and researcher!
  
 - 🔭 Currently working As MERN Stack Engineer.
-- 🌱 And also expanding my knowledge in Data Structures and Algorithms.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
+- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
 - 👨‍🏫 Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
