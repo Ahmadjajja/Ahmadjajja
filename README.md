@@ -1,8 +1,7 @@
 # Hi there, I'm Ahmad Jajja 👋
- 
 
- ## I,m a Developer, Teacher and researcher!
- 
+## I,m a Developer, Teacher and researcher!
+
 - 🔭 Currently working As MERN Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
 - 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
@@ -11,8 +10,6 @@
 - 📢 Love to teach and inspire students.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
-
-
 
 <h2><i>💻 Tech Stack</i></h2>
 
@@ -121,15 +118,13 @@
     </td>
 </tr>
 
-    
 </table>
 
 <br />
 <br />
 
+## Connect with Me 🤝
 
-## Connect with Me 🤝 
-  
 <p align="center">
 <a href="https://ahmad-jajja.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-ahmadjajja.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahmad-jajja-ba8b34210/" target="_blank"><img src="https://img.shields.io/badge/-Ahmad%20Jajja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -138,27 +133,25 @@
   
  ## Some Community Projects
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Awesome Python Projects**](https://github.com/Ahmadjajja/Awesome-Python-Projects) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Learn_Machine_Learning_in_5_Months**](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/-Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Python For Ethical Hacking**](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Python-For-Ethical-Hacking?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Learn-Data-Science-in-3-months**](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Learn Blockchain in 3 months**](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   |
-
+| Project :octocat:                                                                                           | Issues :bug:                                                                                                                                                                                                         | Open PRs :bell:                                                                                                                                                                                        | Closed PRs :fire:                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Awesome Python Projects**](https://github.com/Ahmadjajja/Awesome-Python-Projects)                        | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues)                         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls)                        | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)                       |
+| [**Learn_Machine_Learning_in_5_Months**](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/-Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/-Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed) |
+| [**Python For Ethical Hacking**](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/)                 | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Python-For-Ethical-Hacking?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/issues)                   | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls)                  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls?q=is%3Apr+is%3Aclosed)                 |
+| [**Learn-Data-Science-in-3-months**](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months)          | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/issues)           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls)          | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)         |
+| [**Learn Blockchain in 3 months**](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months)              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/issues)               | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls)              | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls?q=is%3Apr+is%3Aclosed)             |
 
 <!--   ## Consistency👨‍💻
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
-  
+
 ## My Activities :mailbox_with_mail:
 
-| BOOTCAMPS & SESSIONS :tv: | 
-| :--- |
-| [Web Development Bootcamp](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Current)| 
-	
-	
+| BOOTCAMPS & SESSIONS :tv:                                                          |
+| :--------------------------------------------------------------------------------- |
+| [Web Development Bootcamp](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Current) |
+
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
@@ -178,10 +171,8 @@
 	</a>
 </p> -->
 
- # Github Metrics
+# Github Metrics
+
 <p align="center">
-	<img width="625em" src="https://github.com/Ahmadjajja/Ahmadjajja/blob/master/github-metrics.svg" />
+	<img width="625em" src="./github-metrics.svg" />
 </p>
-
-
-
