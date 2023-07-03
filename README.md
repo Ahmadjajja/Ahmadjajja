@@ -178,10 +178,10 @@
 	</a>
 </p> -->
 
-<!-- # Github Metrics
+ # Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/Ahmadjajja/Ahmadjajja/blob/master/github-metrics.svg" />
-</p> -->
+</p>
 
 
 
