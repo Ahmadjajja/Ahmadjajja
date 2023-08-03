@@ -151,6 +151,8 @@
 | BOOTCAMPS & SESSIONS :tv:                                                          |
 | :--------------------------------------------------------------------------------- |
 | [Web Development Bootcamp](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Current) |
+| :--------------------------------------------------------------------------------- |
+| [Web Designing Bootcamp_1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Current) |
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
