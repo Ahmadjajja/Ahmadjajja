@@ -25,7 +25,7 @@
         <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="React-JS" width="150px" height="100px">
     </td>
      <td align='center' width="190">
-        <img src="https://th.bing.com/th/id/OIP.EU8cGE7DN2uIKfn1bcEu3AAAAA?pid=ImgDet&rs=1" alt="Git" width="150px" height="100px">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_JDu_lZiABnyOGnMJMqoGkksKziIIJuEnN4rSkZ6Lf4kCTlVW5HZd8SHFyXIizSj_xE&usqp=CAU" alt="Git" width="150px" height="100px">
     </td>
      <td align='center' width="190">
         <img src="https://alexsaveau.dev/assets/firebase/firestore-banner.png" alt="Cloud-Firestore" width="150px" height="100px">
