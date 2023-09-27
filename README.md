@@ -1,4 +1,5 @@
 # Hi there, I'm Ahmad Jajja 👋.
+![](https://komarev.com/ghpvc/?Ahmadjajja=Ahmadjajja&color=dc143c)
 
 ## I,m a Developer and Teacher!
 
