@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad Jajja 👋
 
-## I,m a Developer and Teacher!
+## I,m a Developer and Tech Trainer!
 
 - 🔭 Currently working As MERN Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
