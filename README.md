@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmad Jajja 👋
+# Hi there, I'm Ahmad Jajja 👋.
 
 ## I,m a Developer and a Tech Trainer!
 
