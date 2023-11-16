@@ -11,7 +11,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2><i>💻 Tech Stack and Tools</i></h2>
 
 <table width="100">
 <tr>
