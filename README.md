@@ -150,9 +150,9 @@
 
 | BOOTCAMPS & SESSIONS :tv:                                                          |
 | :--------------------------------------------------------------------------------- |
-| [Frontend_Development](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed) |
+| [Frontend_Web_Development](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed) |
+| [Frontend_Mobile_Development](https://github.com/Ahmadjajja/Mobile_Application_Development) (Current) |
 | [Backend_Development](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
-| [Mobile_Development](https://github.com/Ahmadjajja/Mobile_Application_Development) (Current) |
 | [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed) |
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed) |
 
