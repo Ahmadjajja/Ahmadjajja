@@ -87,7 +87,7 @@
         <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap 5"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://th.bing.com/th/id/R.72c582b6fbfe967d58f848c580e9ab7a?rik=jdsLPhkEpdEOwg&pid=ImgRaw&r=0" alt="Chakra-UI"  width="150px" height="100px">
+        <img src="https://miro.medium.com/v2/resize:fit:800/1*8hhfdEqRkRQSaJrJlx60zg.png" alt="Chakra-UI"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://www.argenova.com.tr/uploads/IntelliJ-Idea-logo1.png" alt="IntelliJ IDEA"  width="150px" height="100px">
