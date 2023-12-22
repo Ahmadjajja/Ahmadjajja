@@ -149,7 +149,7 @@
 
 ## My Activities :mailbox_with_mail:
 
-| BOOTCAMPS & SESSIONS :tv:                                                          |
+| TRAINING BOOTCAMPS & SESSIONS :tv:                                                          |
 | :--------------------------------------------------------------------------------- |
 | [AI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
 | [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
