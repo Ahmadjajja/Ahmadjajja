@@ -150,8 +150,8 @@
 
 | LEARN_WITH_AHMAD_JAJJA : BOOTCAMPS & SESSIONS :tv:                                                          |
 | :--------------------------------------------------------------------------------- |
-| [AI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
 | [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
+| [GenerativeAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
 | [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current) |
 | [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed) |
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed) |
