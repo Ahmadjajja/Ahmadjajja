@@ -151,11 +151,14 @@
 
 | BOOTCAMPS & SESSIONS :tv:                                                          |
 | :--------------------------------------------------------------------------------- |
-| [Frontend_Web_Development](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed) |
-| [Frontend_Mobile_Development](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-| [Backend_Development](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
+| [AI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
+| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current) |
+| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed) |
+| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
+| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
 | [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed) |
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed) |
+
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
