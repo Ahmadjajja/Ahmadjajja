@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Jajja 👋.
 
 ## I,m a Software Engineer and a Tech Trainer!
-![Alt Text](https://drive.google.com/uc?id=1Lo1_-rjcXhUu17UouEF4JGB8yFxWbzXl)
+![Alt Text](https://drive.google.com/uc?id=1En_LKXp_6UxHJRC2drgvPin7PT4S2lDb)
 
 
 - 🔭 Currently working As MERN Stack Engineer.
