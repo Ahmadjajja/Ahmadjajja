@@ -4,10 +4,9 @@
 ![Alt Text](https://drive.google.com/uc?id=1En_LKXp_6UxHJRC2drgvPin7PT4S2lDb)
 
 
-- 🔭 Currently working As MERN Stack Engineer.
+- 🔭 Currently working As a Full Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
-- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
-- 👨‍🏫 **MERN** Stack Instructor **:** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
+- 👨‍🏫 **Tech** Trainer **:** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
