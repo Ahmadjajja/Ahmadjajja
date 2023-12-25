@@ -146,9 +146,9 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
 
-## My Activities :mailbox_with_mail:
+## Learn with Ahmad Jajja :mailbox_with_mail:
 
-| LEARN_WITH_AHMAD_JAJJA : BOOTCAMPS & SESSIONS :tv:                                                          |
+| BOOTCAMPS & SESSIONS :tv:                                                          |
 | :--------------------------------------------------------------------------------- |
 | [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
 | [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
