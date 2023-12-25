@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Jajja 👋.
 
 ## I,m a Software Engineer and a Tech Trainer!
-![Alt Text](https://drive.google.com/drive/folders/1IDo2YTUo7cYCCnTXYvl_37eW3vpcu9fU)
+![Alt Text](https://drive.google.com/file/d/1Lo1_-rjcXhUu17UouEF4JGB8yFxWbzXl/view)
 
 - 🔭 Currently working As MERN Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
