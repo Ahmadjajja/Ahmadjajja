@@ -91,7 +91,7 @@
         <img src="https://miro.medium.com/v2/resize:fit:800/1*8hhfdEqRkRQSaJrJlx60zg.png" alt="Chakra-UI"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://www.argenova.com.tr/uploads/IntelliJ-Idea-logo1.png" alt="IntelliJ IDEA"  width="150px" height="100px">
+        <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-Intellij-IDEA.png" alt="IntelliJ IDEA"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://th.bing.com/th/id/OIP.rQ0TiypgG55Wz4Bq0RXnzAHaEK?pid=ImgDet&rs=1" alt="Linux"  width="150px" height="100px">
