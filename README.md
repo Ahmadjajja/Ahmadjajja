@@ -9,7 +9,7 @@
 - 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
