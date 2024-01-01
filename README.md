@@ -4,13 +4,13 @@
 ![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1)
 
 
-○ 🔭 Currently working As a Full Stack Engineer.
-○ 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
-○ 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
-○ 👯 I’m looking to collaborate with other content creators and developers.
-○ 📢 Love to teach and inspire students.
-○ 🥅 2023 Goals: Contribute more to Open Source projects.
-○ 📫 How to reach me **ahmadjajja86@gmail.com**
+- 🔭 Currently working As a Full Stack Engineer.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
+- 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach and inspire students.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me **ahmadjajja86@gmail.com**
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
