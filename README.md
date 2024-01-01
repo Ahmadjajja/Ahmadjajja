@@ -20,7 +20,7 @@
         <img src="https://camo.githubusercontent.com/38f539adfb5bad47c143db7a640d33122a666b8cb1fd047775f7e4fc0ac6a730/687474703a2f2f616c66612d63796265722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f576861742d69732d4a6176615363726970742e6a7067" alt="Javascript" width="150px" height="100px">
     </td>
     <td align='center' width="190">
-        <img src="https://camo.githubusercontent.com/516526c08fddf0c1dbbb41713a896f05e5b9269d2c2b62d7fe30eb0fb118ed3e/68747470733a2f2f63646e2e7468656e6577737461636b2e696f2f6d656469612f323032322f30312f31306238386336382d747970657363726970742d6c6f676f2e706e67" alt="Typescript" width="150px" height="100px">
+        <img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png" alt="Typescript" width="150px" height="100px">
     </td>
      <td align='center' width="190">
         <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="React-JS" width="150px" height="100px">
@@ -74,10 +74,10 @@
         <img src="https://camo.githubusercontent.com/f5f99ac45e661ee1e97a71bd6bb8679c4def6bc656d3e05824fb67fe2f417300/68747470733a2f2f7777772e61727469636c65737468656d652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f72656163742d6e61746976652d312d312e706e67" alt="React-Native"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/e383642e7b66f526a889c6134d399c348124cede7e6ff1bd2ae81b30ee4f0138/68747470733a2f2f7777772e636f646573616e7361722e636f6d2f73746f726167652f6170702f6d656469612f73656f2f646172742e706e67" alt="Dart"  width="150px" height="100px">
+        <img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg" alt="Dart"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/6f9570aff7d235de6c1661ac7bd99751180bd33fbe9ef2b87ccc501e8308643b/68747470733a2f2f7777772e74616476697365722e72752f696d616765732f642f64362f5468756d626e61696c5f313635303238383832332e6a7067" alt="Github"  width="150px" height="100px">
+        <img src="https://www.c-sharpcorner.com/article/create-github-repository-and-add-newexisting-project-using-github-desktop/Images/github.png" alt="Github"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://th.bing.com/th/id/OIP.g1Zva-rl0GUFFB-_AqyrnAHaFC?pid=ImgDet&rs=1" alt="SASS"  width="150px" height="100px">
