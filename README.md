@@ -1,9 +1,6 @@
 # Hi there, I'm Ahmad Jajja 👋.
-
-
-<img align="right" alt="" src="https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1" width="100%"  />
-
 ## I,m a Software Engineer and a Tech Trainer!
+![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1)
 
 - 🔭 Currently working As a Full Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
