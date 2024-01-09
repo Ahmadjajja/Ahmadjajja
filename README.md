@@ -1,4 +1,6 @@
-# Hi there, I'm Ahmad Jajja 👋.
+# Hi there👋.
+
+<!-- # Hi there, I'm Ahmad Jajja 👋. -->
 
 ## Learn with Ahmad Jajja :mailbox_with_mail:
 
