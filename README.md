@@ -1,4 +1,4 @@
-# Hi there👋 I,m a Software Engineer and a Tech Trainer!
+# Hi there👋, I,m a Software Engineer and a Tech Trainer!
 
 <!-- # Hi there, I'm Ahmad Jajja 👋. -->
 
