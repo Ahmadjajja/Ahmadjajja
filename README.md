@@ -1,6 +1,10 @@
 # Hi there, I'm Ahmad Jajja 👋.
+
 ## I,m a Software Engineer and a Tech Trainer!
-![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1)
+
+<!-- ![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1) -->
+
+![Alt Text](./Images/SMIT-Click.jpeg)
 
 - 🔭 Currently working As a Full Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
@@ -133,7 +137,7 @@
 
 | Project :octocat:                                                                                           | Issues :bug:                                                                                                                                                                                                         | Open PRs :bell:                                                                                                                                                                                        | Closed PRs :fire:                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [**Tech Books**](https://github.com/Ahmadjajja/LearnTechBooks)              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/LearnTechBooks/issues)               | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/LearnTechBooks?style=flat&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls)              | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/LearnTechBooks?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls?q=is%3Apr+is%3Aclosed)             |
+| [**Tech Books**](https://github.com/Ahmadjajja/LearnTechBooks)                                              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/LearnTechBooks/issues)                             | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/LearnTechBooks?style=flat&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls)                                          | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/LearnTechBooks?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls?q=is%3Apr+is%3Aclosed)                                         |
 | [**Awesome Python Projects**](https://github.com/Ahmadjajja/Awesome-Python-Projects)                        | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues)                         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls)                        | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)                       |
 | [**Python For Ethical Hacking**](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/)                 | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Python-For-Ethical-Hacking?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/issues)                   | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls)                  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Python-For-Ethical-Hacking?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Python-For-Ethical-Hacking/pulls?q=is%3Apr+is%3Aclosed)                 |
 | [**Learn Blockchain in 3 months**](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months)              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/issues)               | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls)              | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/Learn-Blockchain-in-3-months?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/Learn-Blockchain-in-3-months/pulls?q=is%3Apr+is%3Aclosed)             |
@@ -147,16 +151,15 @@
 
 ## Learn with Ahmad Jajja :mailbox_with_mail:
 
-| BOOTCAMPS & SESSIONS :tv:                                                          |
-| :--------------------------------------------------------------------------------- |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current) |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed) |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current) |
-| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed) |
-| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed) |
-| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed) |
+| BOOTCAMPS & SESSIONS :tv:                                                                                   |
+| :---------------------------------------------------------------------------------------------------------- |
+| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
+| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
+| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
+| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
+| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
+| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
 | [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
