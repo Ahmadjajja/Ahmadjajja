@@ -151,7 +151,7 @@
 
 ## Learn with Ahmad Jajja :mailbox_with_mail:
 
-<img align="right" alt="" src="./Images/SMIT-Click.jpeg" width="60%" />
+<img align="right" alt="" src="./Images/SMIT-Click.jpeg" width="55%" />
 
 | BOOTCAMPS & SESSIONS :tv:                                                                                   |
 | :---------------------------------------------------------------------------------------------------------- |
