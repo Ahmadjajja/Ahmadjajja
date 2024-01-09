@@ -1,10 +1,24 @@
 # Hi there, I'm Ahmad Jajja 👋.
 
+## Learn with Ahmad Jajja :mailbox_with_mail:
+
+<img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%" />
+
+| BOOTCAMPS & SESSIONS :tv:                                                                                   |
+| :---------------------------------------------------------------------------------------------------------- |
+| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
+| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
+| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
+| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
+| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
+| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
+| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
+
 ## I,m a Software Engineer and a Tech Trainer!
 
 <!-- ![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1) -->
 
-![Alt Text](./Images/SMIT-Click.jpeg)
+<!-- ![Alt Text](./Images/SMIT-Click.jpeg) -->
 
 - 🔭 Currently working As a Full Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
@@ -148,21 +162,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
-
-## Learn with Ahmad Jajja :mailbox_with_mail:
-
-<!-- <img align="right" alt="" style="margin-top=" src="./Images/SMIT-Click.jpeg" width="55%" /> -->
-<img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%" />
-
-| BOOTCAMPS & SESSIONS :tv:                                                                                   |
-| :---------------------------------------------------------------------------------------------------------- |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
-| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
-| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
-| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
-| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
