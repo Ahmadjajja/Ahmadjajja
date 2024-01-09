@@ -1,8 +1,8 @@
-# Hi there👋.
+# Hi there👋 I,m a Software Engineer and a Tech Trainer!.
 
 <!-- # Hi there, I'm Ahmad Jajja 👋. -->
 
-## I,m a Software Engineer and a Tech Trainer!
+<!-- ##  -->
 
 ## Learn with Ahmad Jajja :mailbox_with_mail:
 
