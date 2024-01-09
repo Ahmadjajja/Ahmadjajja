@@ -2,7 +2,7 @@
 
 ## I,m a Software Engineer and a Tech Trainer!
 
-## Learn with Ahmad Jajja :mailbox_with_mail:
+### Learn with Ahmad Jajja :mailbox_with_mail:
 
 <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%" />
 
