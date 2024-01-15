@@ -178,7 +178,7 @@
 </p>
 
 <!-- # Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
+<h4 align="center">Isometric view of contributions in the last year.</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
