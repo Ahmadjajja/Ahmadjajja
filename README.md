@@ -4,9 +4,10 @@
 
 <!-- ##  -->
 
+<!-- ## Learn with Ahmad Jajja :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see how I train? Click on Picture! -->
 
-<h2 align="left" style="display: inline;">Learn with Ahmad Jajja 📬</h2>
-<h2 align="right" style="display: inline;">Wanna see glimpses of how I train? Click on the picture!</h2>
+<h2 align="left" >Learn with Ahmad Jajja 📬</h2>
+<h2 align="right" >Wanna see glimpses of how I train? Click on the picture!</h2>
 
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480"/></a>
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
