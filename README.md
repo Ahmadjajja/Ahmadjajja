@@ -6,7 +6,8 @@
 
 ## Learn with Ahmad Jajja :mailbox_with_mail:
 
-<img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480"/>
+
+<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480"/></a>
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
 
 | BOOTCAMPS & SESSIONS :tv:                                                                                   |
