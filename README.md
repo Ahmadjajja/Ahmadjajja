@@ -6,8 +6,8 @@
 
 <!-- ## Learn with Ahmad Jajja :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see how I train? Click on Picture! -->
 <div >
-  <h2 style="display: inline-block; margin-right: 20px;">Learn with Ahmad Jajja 📬</h2>
-  <h2 style="display: inline-block;">Wanna see glimpses of how I train? Click on the picture!</h2>
+  <span style="display: inline-block; margin-right: 20px;">Learn with Ahmad Jajja 📬</span>
+  <span style="display: inline-block;">Wanna see glimpses of how I train? Click on the picture!</span>
 </div> 
 
 
