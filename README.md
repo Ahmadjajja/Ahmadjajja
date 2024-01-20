@@ -4,9 +4,15 @@
 
 <!-- ##  -->
 
-## Learn with Ahmad Jajja :mailbox_with_mail:
+## Learn with Ahmad Jajja :mailbox_with_mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wanna see glimpses of how I train? Click below ⬇️ 
+<!-- <div >
+  <b style="display: inline-block; margin-right: 20px; font-size: 2.5em; ">Learn with Ahmad Jajja 📬</b>
+  <b style="display: inline-block;font-size: 1.5em;">Wanna see glimpses of how I train? Click on the picture!</b>
+</div> -->
 
-<img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480"/>
+
+
+<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480"/></a>
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
 
 | BOOTCAMPS & SESSIONS :tv:                                                                                   |
@@ -178,7 +184,7 @@
 </p>
 
 <!-- # Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
+<h4 align="center">Isometric view of contributions in the last year.</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
