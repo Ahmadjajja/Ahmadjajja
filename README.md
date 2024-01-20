@@ -62,7 +62,7 @@
         <img src="./Images/python.png" alt="Python"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="./Images/express-js.png" alt="Node-JS"  width="150px" height="100px">
+        <img src="./Images/node-js.webp" alt="Node-JS"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/express-js.png" alt="Express-JS"  width="150px" height="100px">
@@ -79,7 +79,7 @@
         <img src="./Images/html.webp" alt="HTML"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="./Images/css.png" alt="CSS"  width="150px" height="100px">
+        <img src="./Images/css2.png" alt="CSS"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="./Images/heroku.svg" alt="Heroku"  width="150px" height="100px">
