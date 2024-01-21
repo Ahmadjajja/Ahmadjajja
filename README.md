@@ -35,7 +35,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **ahmadjajja86@gmail.com**
+- 📫 How to reach me **ahmadjajja86@gmail.com**.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
