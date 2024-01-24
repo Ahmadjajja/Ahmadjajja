@@ -7,6 +7,7 @@
 - 📢 Love to teach and inspire students.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
+<hr />
 
 <!-- # Hi there, I'm Ahmad Jajja 👋. -->
 
