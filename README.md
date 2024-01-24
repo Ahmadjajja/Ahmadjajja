@@ -1,5 +1,13 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer!
 
+- 🔭 Currently working As a Full Stack Engineer.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
+- 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach and inspire students.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me **ahmadjajja86@gmail.com**
+
 <!-- # Hi there, I'm Ahmad Jajja 👋. -->
 
 <!-- ##  -->
@@ -29,13 +37,7 @@
 
 <!-- ![Alt Text](./Images/SMIT-Click.jpeg) -->
 
-- 🔭 Currently working As a Full Stack Engineer.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
-- 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **ahmadjajja86@gmail.com**
+
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
