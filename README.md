@@ -1,5 +1,5 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer!
-
+<hr />
 - 🔭 Currently working As a Full Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
 - 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
