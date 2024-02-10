@@ -32,6 +32,7 @@
 
 - 🔭 Currently working As a Full Stack Engineer.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)** in JAVA.
+- 🌱 Solved 250+ **[Leetcode](https://leetcode.com/ahmadjajja86/)** problems.
 - 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
