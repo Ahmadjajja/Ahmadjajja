@@ -39,11 +39,11 @@
 
 - 🔭 Currently working As a Full Stack Engineer.
 - 👨‍🏫 **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
-- 📚 Check out how I train my students → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
 - 📢 Love to teach and inspire students.
 - 🌱 Solved 250+ **[Leetcode](https://leetcode.com/ahmadjajja86/)** problems.
 - 🥅 2024 Goals: Join International Hackathons to hone skills in Generative AI.
-- 📫 How to reach me **ahmadjajja86@gmail.com**
+- 📚 If you want to see how I provide training to my students, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
+<!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
