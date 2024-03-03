@@ -41,7 +41,7 @@
 - 🌱 Love to tackle complex Data Structures and Algorithms problems.
 - 🌱 Solved 250+ **[Leetcode](https://leetcode.com/ahmadjajja86/)** problems.
 - 👨‍🏫 **Tech Trainer :** Trained 500+ students at **[Saylani Mass IT Training Program(SMIT)](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
-- 👯 I’m looking to collaborate with other content creators and developers.
+- 👀 Check out how I train my students➡️ **[📸](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**
 - 📢 Love to teach and inspire students.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me **ahmadjajja86@gmail.com**
