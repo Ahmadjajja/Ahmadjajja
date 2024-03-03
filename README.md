@@ -41,7 +41,7 @@
 - 👨‍🏫 **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
 - 📚 If you want to see how I provide training to my students, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
 - 🥅 2024 Goals: Join International Hackathons to hone skills in Generative AI.
-- 🌱 Solved 250+ Data Structures & Algorithms **[Leetcode](https://leetcode.com/ahmadjajja86/)** problems.
+- 🌱 Solved 250+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
 <!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
