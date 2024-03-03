@@ -1,6 +1,8 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer!
+<div style="">
+<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
+</div>
 
-<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif" /></a> 
 
 
 <!-- # Hi there, I'm Ahmad Jajja 👋. -->
@@ -28,7 +30,7 @@
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
 | [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
 | [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-| [Recursion-&-Backtracking Workshop](https://github.com/Ahmadjajja/Recursion-nd-Backtracking) (Completed)    |
+<!-- | [Recursion-&-Backtracking Workshop](https://github.com/Ahmadjajja/Recursion-nd-Backtracking) (Completed)    | -->
 
 <!-- ![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1) -->
 
