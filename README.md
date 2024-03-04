@@ -1,5 +1,6 @@
+# Hi there👋 I,m a Software Engineer and a Tech Trainer!
 <div align="center">
-  <h1>🎩  Hi there👋 I,m a Software Engineer and a Tech Trainer! 🎩</h1>
+  <h1> Hi there👋 I,m a Software Engineer and a Tech Trainer! </h1>
 </div>
 
 
