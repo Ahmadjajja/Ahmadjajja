@@ -1,4 +1,10 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer!
+<div style="background: linear-gradient(to right, #00b555 0%, #00b555 25%, #0076c3 75%, #0076c3 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    <p>
+        In the world of bytes and bits, I am the architect of transformation.
+    </p>
+</div>
+
 <!-- <div style="width: 80%; margin: 0 auto">
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
 </div>  -->
