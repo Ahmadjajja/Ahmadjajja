@@ -1,6 +1,6 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer!
 <div align="center">
-  <h1>🎩 In the world of bytes and bits, I am the architect of transformation. 🎩</h1>
+  <h2>🎩 In the world of bytes and bits, I am the architect of transformation. 🎩</h2>
 </div>
 
 
