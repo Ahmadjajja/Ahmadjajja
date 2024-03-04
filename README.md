@@ -1,7 +1,4 @@
-
-<div align="center">
-  <h1> Hi there👋 I,m a Software Engineer and a Tech Trainer! </h1>
-</div>
+# Hi there👋 I,m a Software Engineer and a Tech Trainer! 
 
 
 <!-- <div style="width: 80%; margin: 0 auto">
