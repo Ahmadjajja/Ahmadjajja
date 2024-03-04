@@ -38,7 +38,7 @@
 <!-- ![Alt Text](./Images/SMIT-Click.jpeg) -->
 
 - 🔭 Currently working As a Full Stack Engineer.
-- 👨‍🏫 **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)** to learn programming.
+- 👨‍🏫 **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)** to learn programming and software engineering skills.
 - 📚 If you want to see how I provide training to my students, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
 - 🥅 2024 Goals: Join International Hackathons to hone skills in Generative AI.
 - 🌱 Solved 250+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
