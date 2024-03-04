@@ -25,9 +25,9 @@
 | BOOTCAMPS & SESSIONS :tv:                                                                                   |
 | :---------------------------------------------------------------------------------------------------------- |
 | [LeetCode_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)    |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
 | [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
+| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
+| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
 | [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
 | [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
