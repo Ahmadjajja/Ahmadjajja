@@ -43,7 +43,7 @@
 
 <!-- ![Alt Text](./Images/SMIT-Click.jpeg) -->
 
-- 🔭 A full-stack software engineer based in Faisalabad, PK.
+- 🔭 Currently working As a Full Stack Engineer.
 - 🖥️ **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)** to learn programming and software engineering skills.
 - 📚 If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
 - 👨‍🏫 Offers volunteer teaching in Python and DSA at **[**iCodeGuru**](https://icodeguru.weebly.com/)**, emphasizing LeetCode.
