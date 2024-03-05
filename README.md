@@ -1,4 +1,6 @@
-# Hi there👋 I,m a Software Engineer and a Tech Trainer!
+# Hi there👋 I,m a Software Engineer and a Tech Trainer! 
+
+
 <!-- <div style="width: 80%; margin: 0 auto">
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
 </div>  -->
@@ -27,9 +29,10 @@
 
 | BOOTCAMPS & SESSIONS :tv:                                                                                   |
 | :---------------------------------------------------------------------------------------------------------- |
+| [LeetCode_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)    |
+| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
 | [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
 | [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
 | [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
 | [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
@@ -41,7 +44,7 @@
 <!-- ![Alt Text](./Images/SMIT-Click.jpeg) -->
 
 - 🔭 Currently working As a Full Stack Engineer.
-- 👨‍🏫 **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**.
+- 👨‍🏫 **Tech Trainer :** Trained 500+ students @**[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)** to learn programming and software engineering skills.
 - 📚 If you want to see how I provide training to my students, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
 - 🥅 2024 Goals: Join International Hackathons to hone skills in Generative AI.
 - 🌱 Solved 250+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
