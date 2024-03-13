@@ -29,7 +29,7 @@
 
 | BOOTCAMPS & SESSIONS :tv:                                                                                   |
 | :---------------------------------------------------------------------------------------------------------- |
-| [LeetCode_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)    |
+| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)    |
 | [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
 | [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
 | [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
