@@ -23,9 +23,8 @@
 <div>
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank">
 <!-- <i style="position: absolute; right : 1;top: 20%; z-index: 3">Saylani Mass IT Training Program</i> -->
-<img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif" width="480" />
-</a>
-	
+<img align="right" alt="" style="margin-top: 30px;height: 110%" src="./Images/Ahmad.gif" width="480"  />
+</a>	
 <div>
 
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
