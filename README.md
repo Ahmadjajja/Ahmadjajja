@@ -27,7 +27,7 @@
 
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
 
-| TECH SESSIONS @SMIT, and @iCodeGuru                                                                         |
+| TECH SESSIONS @SMIT                                                                                         |
 | :---------------------------------------------------------------------------------------------------------- |
 | [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
 | [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
@@ -36,8 +36,10 @@
 | [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
 | [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
 | [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
-| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)    |
-| [Recursion-&-Backtracking](https://github.com/Ahmadjajja/Recursion-nd-Backtracking) (Completed)    |
+| TECH SESSIONS @iCodeGuru                                                                                    |
+| :---------------------------------------------------------------------------------------------------------- |
+| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)     |
+| [Recursion-&-Backtracking](https://github.com/Ahmadjajja/Recursion-nd-Backtracking) (Completed)             |
 
 <!-- ![Alt Text](https://drive.google.com/uc?id=1Bts8NH1QnsBW51MjXEiyYk_0Ygv5kjB1) -->
 
