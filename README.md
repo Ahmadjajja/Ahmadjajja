@@ -21,9 +21,9 @@
 
 <!-- <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="480" /></a> -->
 <div>
-<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank">
+<a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank" style="display: inline-block;margin-top: 50px;">
 <!-- <i style="position: absolute; right : 1;top: 20%; z-index: 3">Saylani Mass IT Training Program</i> -->
-<img align="right" alt="" style="display: inline-block;margin-top: 50px;" src="./Images/Ahmad.gif" width="480"  />
+<img align="right" alt=""  src="./Images/Ahmad.gif" width="480"  />
 </a>	
 <div>
 
