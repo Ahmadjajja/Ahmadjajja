@@ -27,7 +27,7 @@
 
 <!-- <img align="right" alt="" style="margin-top: 30px;" src="./Images/SMIT-Click.jpeg" width="58%"/> -->
 
-| BOOTCAMPS & SESSIONS @SMIT, and @iCodeGuru                                                                    |
+| Tech SESSIONS @SMIT, and @iCodeGuru                                                                         |
 | :---------------------------------------------------------------------------------------------------------- |
 | [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Current)            |
 | [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
