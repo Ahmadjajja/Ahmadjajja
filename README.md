@@ -1,5 +1,5 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer! 
-# Empowering Minds Through Code
+<h2><i>__Empowering Minds Through Code__</i></h2>h2>
 <!-- <div style="width: 80%; margin: 0 auto">
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
 </div>  -->
