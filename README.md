@@ -1,4 +1,5 @@
 # Hi there👋 I,m a Software Engineer and a Tech Trainer! 
+## Empowering Minds Through Code
 
 
 <!-- <div style="width: 80%; margin: 0 auto">
