@@ -1,4 +1,4 @@
-<h1><i>__________Empowering Minds Through Code_____________</i></h1> <br />
+<h1><i>__________Empowering Minds Through Code_____________</i></h1>
 
 # Hi there👋 I,m a Software Engineer and a Tech Trainer! 
 <!-- <div style="width: 80%; margin: 0 auto">
