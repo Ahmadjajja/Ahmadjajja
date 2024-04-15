@@ -1,6 +1,6 @@
-<h1><i>__________Empowering Minds Through Code_____________</i></h1>
+# Hi there👋 I,m a Software Engineer and a Tech Trainer! s
 
-# Hi there👋 I,m a Software Engineer and a Tech Trainer! 
+<h1><i>__________Empowering Minds Through Code_____________</i></h1>
 <!-- <div style="width: 80%; margin: 0 auto">
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
 </div>  -->
