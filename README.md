@@ -1,4 +1,5 @@
-# Hi there👋 I,m a Software Engineer and a Tech Trainer!
+# Top 29th Pakistani Github Contributor: [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/)
+
 
 <h1><i>__________Empowering Minds Through Code_____________</i></h1>
 <!-- <div style="width: 80%; margin: 0 auto">
