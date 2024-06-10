@@ -45,7 +45,7 @@
 | [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)     |
 | [Recursion-&-Backtracking](https://github.com/Ahmadjajja/Recursion-nd-Backtracking) (Completed)             |
 
-- Currently working As a Full Stack Engineer.
+- Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
 - Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 1000+ students to learn programming and software engineering skills.
 - If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
