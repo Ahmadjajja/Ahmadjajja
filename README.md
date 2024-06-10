@@ -56,6 +56,7 @@
 - 🏆 Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 PhD candidate aiming to pursue studies in the United States to advance in the tech field.
+- 🏆 **[Selected](https://leetcode.com/ahmadjajja86/](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/))** as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
 <!-- - 📫 How to reach me **ahmadjajja86@gmail.com** -->
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
