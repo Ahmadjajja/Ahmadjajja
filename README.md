@@ -1,5 +1,5 @@
 # Top 29th Pakistani Github Contributor: [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/)
-## Hi! I'm a Software Engineer and Tech Trainer.
+## Hi! I'm a Software Engineer and Tech Trainer
 
 
 <h2><i>Empowering Minds Through Code</i></h2>
