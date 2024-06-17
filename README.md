@@ -2,7 +2,7 @@
 ## Hi! I'm a Software Engineer and Tech Trainer.
 
 
-<h2><i>Empowering Minds Through Code.</i></h2>
+<h2><i>Empowering Minds Through Code</i></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
 <a href="https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view" target="_blank"><img align="right" alt="" style="margin-top: 30px;" src="./Images/Ahmad.gif"/></a> 
 </div>  -->
