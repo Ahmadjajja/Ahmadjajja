@@ -1,4 +1,5 @@
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor: [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/)
+# Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor.
+<!-- : [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/) -->
 ## Hi! I'm a Software Engineer and Tech Trainer.
 
 
