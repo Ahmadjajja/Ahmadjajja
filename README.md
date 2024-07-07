@@ -44,7 +44,7 @@
 | [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
 | **TECH SESSIONS @iCodeGuru**                                                                                    |
 | [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Current)     |
-| [Machine-Learning_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Current)             |
+| [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Current)             |
 
 - Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
 - Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
