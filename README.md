@@ -1,7 +1,7 @@
 # Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor.
 <!-- : [See here!](https://www.linkedin.com/feed/update/urn:li:activity:7190462861754720256/) -->
-# Software Engineer & Tech Trainer 🖥️. [![page views](https://komarev.com/ghpvc/?username=Ahmadjajja&color=ff3377)](https://github.com/Ahmadjajja/)
-
+# Software Engineer & Tech Trainer 🖥️. 
+<a href="https://hits.sh/github.com/Ahmadjajja/"><img alt="Hits" src="https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
 
 <h2><i>Empowering Minds Through Code.</i></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
