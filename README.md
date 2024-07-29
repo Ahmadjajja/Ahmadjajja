@@ -180,7 +180,7 @@ puzzles.
         <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="Pandas"  width="150px" height="100px">
     </td>
      <td align='center'>
-        <img src="[./Images/DSA.jpg](https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ)" alt="Matplotlib"  width="150px" height="100px">
+        <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/18061/course_18061_image.png" alt="Matplotlib"  width="150px" height="100px">
     </td>
 </tr>
 
