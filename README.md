@@ -166,6 +166,23 @@ puzzles.
         <img src="./Images/DSA.jpg" alt="Data Structure & Algorithms"  width="150px" height="100px">
     </td>
 </tr>
+<tr>
+    <td align='center'>
+        <img src="https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfd36e68ac7a0f3b2/651b29bb3671b45abcc7e4c8/Generative_AI_(2).png?disable=upscale&width=1200&height=630&fit=crop" alt="Generative AI"  width="150px" height="100px">
+    </td>
+    <td align='center' width="190">
+        <img src="https://admin.bentoml.com/uploads/simple_rag_workflow_091648ef39.png" alt="RAG Application"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrTWz33b86nfIrgaW9jE_t-7VCcqJtjL-pg&s" alt="Numpy"  width="150px" height="100px">
+    </td>
+    <td align='center'>
+        <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="Pandas"  width="150px" height="100px">
+    </td>
+     <td align='center'>
+        <img src="[./Images/DSA.jpg](https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ)" alt="Matplotlib"  width="150px" height="100px">
+    </td>
+</tr>
 
 </table>
 
