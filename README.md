@@ -1,4 +1,4 @@
-# Software Engineer & Tech Trainer 🖥️ [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/)
+<!-- # Software Engineer & Tech Trainer 🖥️ [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/) -->
 
 # Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor. [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/)
 
