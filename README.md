@@ -3,9 +3,9 @@
 <!--  # Software Engineer & Tech Trainer 🖥️.  -->
 <h1> Software Engineer & Tech Trainer 🖥️. <a href="https://hits.sh/github.com/Ahmadjajja/"><img alt="Hits" src="https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a></h1>
 
-# Software Engineer & Tech Trainer 🖥️ [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/)
+# Software Engineer & Tech Trainer 🖥️ 
 
-# Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor.
+# Top [![committers.top badge](https://user-badge.committers.top/pakistan/Ahmadjajja.svg)](https://user-badge.committers.top/pakistan/Ahmadjajja)th Pakistani Github Contributor. [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/)
 
 <h2><i>Empowering Minds Through Code.</i></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
