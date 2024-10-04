@@ -49,7 +49,7 @@
 - Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
 - Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.
-- If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**
+- If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**.
 - **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@ahmad_jajja288) in multiple AI International Hackathons with a global team of six.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
