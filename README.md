@@ -35,7 +35,7 @@
 | TECH SESSIONS @SMIT                                                                                         |
 | :---------------------------------------------------------------------------------------------------------- |
 | [AI_n_DataScience](https://github.com/Ahmadjajja/AI_n_DataScience) (Current)                                |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Current)                                     |
+| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Completed)                                     |
 | [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Completed)          |
 | [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
 | [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
