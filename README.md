@@ -48,7 +48,7 @@
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and cutting-edge technologies.
 - If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**.
 - Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
-- **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
+- **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offered volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@ahmad_jajja288) in multiple AI International Hackathons with a global team of six.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
@@ -218,7 +218,7 @@ puzzles.
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmadjajja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmadjajja&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjajja&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+<!--   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjajja&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> -->
 </p>
 </p>
 
