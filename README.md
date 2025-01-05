@@ -1,6 +1,6 @@
-# 𝐇𝐞𝐥𝐥𝐨!
+# Hello, I'm Ahmad
 
-# I'm 𝐀𝐡𝐦𝐚𝐝 — a Software Engineer, Tech Trainer, and Doctoral Student.
+## A Software Engineer, Tech Trainer, and Doctoral Student.
 
 <h2><b>Empowering Minds Through Code 🖥️.</b></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
