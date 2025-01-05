@@ -1,4 +1,6 @@
-# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/Ahmadjajja.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c)](https://hits.sh/github.com/Ahmadjajja/) 
+# 𝐇𝐞𝐥𝐥𝐨!
+
+# I'm 𝐀𝐡𝐦𝐚𝐝 — a Software Engineer, Tech Trainer, and Doctoral Student.
 
 <h2><b>Empowering Minds Through Code 🖥️.</b></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
@@ -44,10 +46,10 @@
 | [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Completed)     |
 | [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Completed)             |
 
-- Co-Founder & Dev Lead @[EcoFactor](https://ecofactorsite.netlify.app/).
-- Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
-- **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and software engineering skills.
+- Contributed to local/global startups.
+- **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and cutting-edge technologies.
 - If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**.
+- Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
 - **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@ahmad_jajja288) in multiple AI International Hackathons with a global team of six.
 - **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
