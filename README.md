@@ -1,4 +1,4 @@
-# Software Engineer, Trainer, and Doctoral Student
+# Software Engineer, Trainer, and Fully Funded Grad. Student
 
 <h2><b>Empowering Minds Through Code 🖥️.</b></h2>
 <!-- <div style="width: 80%; margin: 0 auto">
